@@ -45,8 +45,8 @@ If you run into any issues while setting it up, or if you need a little help mak
 
 Feel free to contact me anytime.
 
-Regards,
-Harman
+Regards,<br>
+Harman<br>
 [harmanjss10@gmail.com](mailto:harmanjss10@gmail.com)
 
 ---
